@@ -26,7 +26,7 @@ determine:
 For a vector
 
 $$
-\vec{v} = \begin{pmatrix} v_x \\ v_y \\ v_z \end{pmatrix}
+\vec{v} = [v_x, v_y, v_z]
 $$
 
 its magnitude is
@@ -46,11 +46,11 @@ The cross product in component form is
 $$
 \vec{a} \times \vec{b}
 =
-\begin{pmatrix}
-a_y b_z - a_z b_y \\
-a_z b_x - a_x b_z \\
+\left[
+a_y b_z - a_z b_y,\;
+a_z b_x - a_x b_z,\;
 a_x b_y - a_y b_x
-\end{pmatrix}
+\right]
 $$
 
 The angle $\theta$ between two vectors is determined from
