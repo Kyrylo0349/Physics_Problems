@@ -124,13 +124,11 @@ $$
 Using the component formula,
 
 $$
-\vec{a} \times \vec{b}
-=
-\left[
-(1)(1) - (-3)(-2),\;
-(-3)(4) - (2)(1),\;
+\vec{a} \times \vec{b} = \begin{pmatrix}
+(1)(1) - (-3)(-2) \\
+(-3)(4) - (2)(1) \\
 (2)(-2) - (1)(4)
-\right]
+\end{pmatrix}
 $$
 
 Evaluate each component separately:

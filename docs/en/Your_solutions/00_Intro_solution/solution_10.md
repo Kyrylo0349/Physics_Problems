@@ -67,12 +67,7 @@ $$
 Factor out $\frac{1}{2}$:
 
 $$
-\frac{1}{2} - \frac{1}{4} + \frac{1}{6} - \frac{1}{8} + \cdots
-=
-\frac{1}{2}
-\left(
-1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots
-\right)
+\frac{1}{2} - \frac{1}{4} + \frac{1}{6} - \frac{1}{8} + \cdots = \frac{1}{2} \left( 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots \right)
 $$
 
 The series in parentheses is the alternating harmonic series:
