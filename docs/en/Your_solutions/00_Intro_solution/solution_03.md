@@ -125,3 +125,32 @@ $$
 $$
 
 Therefore, the force becomes sixteen times smaller than before.
+
+
+
+
+
+
+# Task 03 – Mini Theory: Proportionality
+
+## What this topic is about
+
+Proportionality describes how one physical quantity changes when another quantity changes. Instead of solving with numbers immediately, it focuses on the structure of a formula.
+
+In gravitation,
+
+$$
+F = G \frac{m_1 m_2}{r^2}
+$$
+
+## Key ideas
+
+If a quantity is in the numerator, increasing it increases the result.
+
+If a quantity is in the denominator, increasing it decreases the result.
+
+If a quantity is squared, its effect is stronger than a simple linear change.
+
+## Why it matters in physics
+
+Many physical laws are understood first through proportionality. It allows quick reasoning about how a system changes without full calculation, which is useful in gravitation, electrostatics, optics, and thermodynamics.

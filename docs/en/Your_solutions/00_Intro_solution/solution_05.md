@@ -113,3 +113,39 @@ $$
 ## Interpretation
 
 The vector points upward and to the right. Because the angle is greater than $45^\circ$, the vertical component is larger than the horizontal component. The original vector can be reconstructed from these orthogonal components.
+
+
+
+
+
+
+
+# Task 05 – Mini Theory: Trigonometry and Vector Components
+
+## What this topic is about
+
+Trigonometry connects angles with side lengths in triangles. In physics, it is used to decompose a vector into horizontal and vertical components.
+
+If a vector has magnitude $A$ and angle $\theta$, then
+
+$$
+A_x = A \cos \theta
+$$
+
+and
+
+$$
+A_y = A \sin \theta
+$$
+
+## Key ideas
+
+Cosine gives the horizontal component.
+
+Sine gives the vertical component.
+
+A vector can be replaced by two perpendicular components without changing its overall effect.
+
+## Why it matters in physics
+
+This idea is used constantly in mechanics. Forces, velocities, accelerations, and fields are often easier to analyze when broken into components along coordinate axes.

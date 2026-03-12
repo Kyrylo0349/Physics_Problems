@@ -123,3 +123,35 @@ $$
 $$
 
 is not only a local minimum but also the global minimum of the function. The graph decreases until $x = 2$ and increases afterward.
+
+
+
+
+
+
+
+# Task 06 – Mini Theory: Function Analysis
+
+## What this topic is about
+
+Function analysis studies how a function behaves, especially where it increases, decreases, or reaches extreme values.
+
+A quadratic function has the form
+
+$$
+f(x) = ax^2 + bx + c
+$$
+
+Its graph is a parabola.
+
+## Key ideas
+
+If $a > 0$, the parabola opens upward and has a minimum.
+
+If $a < 0$, the parabola opens downward and has a maximum.
+
+The turning point is called the vertex.
+
+## Why it matters in physics
+
+Many physical relationships are quadratic. Position under constant acceleration, potential energy, and optimization problems often involve finding maxima or minima of functions.

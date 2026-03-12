@@ -97,3 +97,39 @@ $$
 $$
 
 satisfies both equations simultaneously. Geometrically, this point is the intersection of the two lines represented by the equations.
+
+
+
+
+
+
+
+# Task 02 – Mini Theory: Systems of Equations
+
+## What this topic is about
+
+A system of equations is a set of equations that must be satisfied at the same time. The goal is to find values of the unknowns that make all equations true.
+
+For two variables, a system often has the form
+
+$$
+ax + by = c
+$$
+
+and
+
+$$
+dx + ey = f
+$$
+
+## Key ideas
+
+Each linear equation represents a straight line.
+
+The solution of the system is the point where the lines intersect.
+
+Common solving methods are substitution and elimination.
+
+## Why it matters in physics
+
+Systems of equations appear whenever several conditions act together. They are used in force balance, circuit analysis, kinematics, and many other topics where multiple unknown quantities must be determined simultaneously.

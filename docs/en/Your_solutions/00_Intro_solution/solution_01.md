@@ -208,3 +208,33 @@ $$
 ## Interpretation
 
 The positive dot product shows that the angle between the vectors is acute in the cosine sense, but only slightly so, because the value is small compared with the product of the magnitudes. This is consistent with the angle being close to $90^\circ$. The cross product produces a vector perpendicular to both $\vec{a}$ and $\vec{b}$, with direction determined by the right-hand rule.
+
+
+
+
+
+# Task 01 – Mini Theory: Vector Algebra
+
+## What this topic is about
+
+Vector algebra studies quantities that have both magnitude and direction. In physics, vectors are used for displacement, velocity, force, acceleration, and many other directional quantities.
+
+In three dimensions, a vector is written as
+
+$$
+\vec{v} = \begin{pmatrix} v_x \\ v_y \\ v_z \end{pmatrix}
+$$
+
+## Key ideas
+
+The magnitude of a vector tells how long it is.
+
+The dot product measures how much two vectors point in the same direction.
+
+The cross product produces a new vector perpendicular to both original vectors.
+
+The angle between two vectors shows their directional relationship.
+
+## Why it matters in physics
+
+Many physical problems require splitting vectors into components, combining them, or comparing their directions. Vector algebra is one of the basic tools of mechanics and electromagnetism.

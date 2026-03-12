@@ -119,3 +119,38 @@ $$
 ## Interpretation
 
 Although the ant keeps moving forever, the step lengths decrease, and the total displacement converges to a finite point. This is a standard example of how an infinite process can produce a finite result when the corresponding series converges.
+
+
+
+
+
+
+
+
+
+
+# Task 10 – Mini Theory: Infinite Series
+
+## What this topic is about
+
+An infinite series is the sum of infinitely many terms. Even though the process never stops, the total can still approach a finite value.
+
+A series has the form
+
+$$
+a_1 + a_2 + a_3 + \cdots
+$$
+
+## Key ideas
+
+If the partial sums approach a fixed number, the series converges.
+
+If they do not approach a fixed number, the series diverges.
+
+Alternating signs often help a series converge.
+
+Motion in different directions can be separated into independent horizontal and vertical series.
+
+## Why it matters in physics
+
+Infinite series are used in wave theory, quantum mechanics, approximations, Fourier analysis, and perturbation methods. They provide a way to describe complicated behavior through simpler repeated terms.

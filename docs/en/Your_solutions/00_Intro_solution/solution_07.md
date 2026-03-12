@@ -76,3 +76,33 @@ $$
 ## Interpretation
 
 The infinitely many turns do not imply an infinite total distance. Each leg of the fly's motion becomes shorter, and all of them occur within the finite time interval of $10$ seconds. The total distance is therefore simply the fly's speed multiplied by that total time.
+
+
+
+
+
+
+
+# Task 07 – Mini Theory: Logic, Motion, and Infinite Processes
+
+## What this topic is about
+
+This type of problem combines motion with logical reasoning. Even if an object changes direction infinitely many times, the total time of motion can still be finite.
+
+The central relation is
+
+$$
+\text{distance} = \text{speed} \times \text{time}
+$$
+
+## Key ideas
+
+An infinite number of events does not always mean an infinite total result.
+
+If the total time is finite, the total distance can also be finite.
+
+Some complicated motion problems can be simplified by focusing on total time instead of each separate step.
+
+## Why it matters in physics
+
+Physics often requires identifying the simplest viewpoint. Instead of tracking every detail, it is often better to find a global quantity such as total time, energy, or momentum.

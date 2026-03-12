@@ -181,3 +181,31 @@ $$
 ## Interpretation
 
 As the rectangle becomes wider, its height decreases because the top-right corner must remain on the parabola. The optimal rectangle is reached when the balance between width and height produces the largest possible product.
+
+
+
+
+
+
+
+
+
+# Task 09 – Mini Theory: Optimization
+
+## What this topic is about
+
+Optimization studies how to make a quantity as large or as small as possible under given conditions.
+
+In many problems, a geometric quantity such as area or volume is written as a function of one variable, and then analyzed.
+
+## Key ideas
+
+A maximum or minimum occurs at a critical point or at the boundary of the allowed interval.
+
+Critical points are found where the derivative is zero or undefined.
+
+The derivative shows how the quantity changes.
+
+## Why it matters in physics
+
+Optimization is important in mechanics, engineering, and design. Physical systems often settle into extreme states, such as minimum energy, maximum efficiency, or optimal dimensions.
