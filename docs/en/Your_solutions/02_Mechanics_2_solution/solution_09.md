@@ -229,6 +229,21 @@ $$
 
 Linear drag causes the upward velocity to decay exponentially toward the terminal value associated with the force balance. Compared with the ideal case, the projectile rises for a shorter time and reaches a smaller maximum height.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Numerical Simulation in Python
 
 The following script can be run externally to compare the motion with and without drag.
