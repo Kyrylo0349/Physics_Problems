@@ -110,6 +110,13 @@ $$
 
 gives the best balance between these two effects, so the projectile travels the farthest.
 
+![alt text](Figure_1.png)
+
+
+
+
+
+
 
 
 
