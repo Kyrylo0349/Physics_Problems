@@ -8,6 +8,130 @@ $$
 R(\theta) = \frac{v_0^2 \sin(2\theta)}{g}
 $$
 
+Show that the maximum range is achieved at launch angle
+
+$$
+\theta = 45^\circ
+$$
+
+## Theory
+
+In this formula,
+
+$$
+\frac{v_0^2}{g}
+$$
+
+is constant, because the initial speed $v_0$ and gravity $g$ are fixed.
+
+So the only part that changes with the angle is
+
+$$
+\sin(2\theta)
+$$
+
+The sine function reaches its maximum value when
+
+$$
+\sin x = 1
+$$
+
+which happens at
+
+$$
+x = 90^\circ
+$$
+
+## Step-by-Step Solution
+
+We want the range
+
+$$
+R(\theta) = \frac{v_0^2 \sin(2\theta)}{g}
+$$
+
+to be as large as possible.
+
+Since
+
+$$
+\frac{v_0^2}{g}
+$$
+
+is just a constant, this means we only need to maximize
+
+$$
+\sin(2\theta)
+$$
+
+The maximum value of sine is
+
+$$
+1
+$$
+
+So the maximum range occurs when
+
+$$
+\sin(2\theta) = 1
+$$
+
+This happens when
+
+$$
+2\theta = 90^\circ
+$$
+
+Therefore,
+
+$$
+\theta = 45^\circ
+$$
+
+## Final Result
+
+The maximum range is achieved when
+
+$$
+\theta = 45^\circ
+$$
+
+## Interpretation
+
+A small launch angle gives a large horizontal speed but short flight time.
+
+A large launch angle gives a long flight time but small horizontal speed.
+
+The angle
+
+$$
+45^\circ
+$$
+
+gives the best balance between these two effects, so the projectile travels the farthest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Task 02 – Range Optimization
+
+## Problem Statement
+
+For projectile motion, the range is
+
+$$
+R(\theta) = \frac{v_0^2 \sin(2\theta)}{g}
+$$
+
 Show analytically that for fixed initial speed $v_0$, the maximum range is achieved at launch angle
 
 $$
