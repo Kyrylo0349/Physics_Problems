@@ -42,6 +42,9 @@ $$
 r = \frac{a\sqrt{2}}{2} = \frac{1}{\sqrt{2}} \text{ m}
 $$
 
+<img width="1302" height="1280" alt="electric_potential_square_setup" src="https://github.com/user-attachments/assets/be18cbc2-2e79-4ad7-a7ac-dfc7b216f310" />
+
+
 ### 2. Sum of the charges
 
 The total charge contribution is
