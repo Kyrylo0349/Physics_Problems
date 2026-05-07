@@ -27,7 +27,7 @@ $$
 
 Since visible light is not included in the list, remove it and keep the remaining terms in order.
 
-![alt text](telegram-cloud-photo-size-2-5467685924536784292-w-1.jpg)
+<img width="1536" height="1024" alt="ib" src="https://github.com/user-attachments/assets/4c030333-a7cc-426f-9285-6c1acfa6a0f5" />
 
 ## Final Result
 
