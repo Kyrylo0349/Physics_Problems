@@ -26,6 +26,8 @@ $$
 
 Since visible light is not included in the list, remove it and keep the remaining terms in order.
 
+![alt text](telegram-cloud-photo-size-2-5467685924536784292-w.jpg)
+
 ## Final Result
 
 In order of increasing wavelength:
