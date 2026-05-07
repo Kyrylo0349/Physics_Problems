@@ -14,6 +14,7 @@ List the following types of electromagnetic radiation in order of increasing wav
 ## Theory
 
 In the electromagnetic spectrum, shorter wavelength corresponds to higher frequency and higher photon energy.
+![alt text](telegram-cloud-photo-size-2-5467685924536784291-w.jpg)
 
 ## Step-by-Step Solution
 
