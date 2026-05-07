@@ -22,10 +22,8 @@ In the electromagnetic spectrum, shorter wavelength corresponds to higher freque
 From shortest wavelength to longest wavelength, the general order is:
 
 $$
-\text{Gamma rays} \rightarrow \text{X-rays} \rightarrow \text{Ultraviolet} \rightarrow \text{Visible} \rightarrow \text{Infrared} \rightarrow \text{Microwaves} \rightarrow \text{Radio waves}
+\text{Gamma rays} \rightarrow \text{X-rays} \rightarrow \text{Ultraviolet} \rightarrow \text{Infrared} \rightarrow \text{Microwaves} \rightarrow \text{Radio waves}
 $$
-
-Since visible light is not included in the list, remove it and keep the remaining terms in order.
 
 <img width="1536" height="1024" alt="ib" src="https://github.com/user-attachments/assets/4c030333-a7cc-426f-9285-6c1acfa6a0f5" />
 
